@@ -3,9 +3,12 @@
 <body>
 
 <?php
-$score = 0;
-echo $score;
+
+$x = 0;
+
+echo "<br>";
+echo $x;
 ?>
 
 </body>
-</html> 
+</html>
