@@ -2,12 +2,11 @@
 <html>
 <body>
 
-<?php
-
-$x = 0;
+<?php 
+$x = "Kevin";
 
 echo "<br>";
-echo $x;
+echo $x; 
 ?>
 
 </body>
