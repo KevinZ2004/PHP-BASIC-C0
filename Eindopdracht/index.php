@@ -14,7 +14,9 @@
 /**************************** De code hieronder heb je nodig en hoef je niet aan te passen *************************/
 ?>
 
+<?php include 'bitcoinData.php'; ?>
 <?php include 'header.php'; ?>
+//TODO: incluse / require bitcoinData.php 
 <div class="container mt-4">
     <div class="row mb-4">
         <div class="col d-flex justify-content-center">
