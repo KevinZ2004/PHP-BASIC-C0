@@ -15,6 +15,7 @@
 ?>
 
 <?php include 'header.php'; ?>
+<?php include 'bitcoinData.php'; ?>
 <div class="container mt-4">
     <div class="row mb-4">
         <div class="col d-flex justify-content-center">
