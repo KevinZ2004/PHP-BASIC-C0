@@ -88,7 +88,7 @@ if (isset($_GET['euro'])) {
 }
   
     
-    array_push($transactions, [getbitcoinprice() ,$euro, calculateBitcoinAmount()]);
+    array_push($transactions, [getBitcoinPrice() ,$euro, calculateBitcoinAmount()]);
     
     
     
