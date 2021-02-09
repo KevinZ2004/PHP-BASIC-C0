@@ -14,6 +14,7 @@
 /**************************** De code hieronder heb je nodig en hoef je niet aan te passen *************************/
 ?>
 
+<?php include 'bitcoinData.php'; ?>
 <?php include 'header.php'; ?>
 <?php include 'bitcoinData.php'; ?>
 <div class="container mt-4">
